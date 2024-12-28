@@ -436,3 +436,12 @@
 [28Dec2024 23:09:50.191] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 04884b8f-b3fa-3485-817b-91bdb2fe47d5
 [28Dec2024 23:09:50.192] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XmolkanX
 [28Dec2024 23:11:46.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak has made the advancement [Isn't It Iron Pick]
+[28Dec2024 23:17:23.092] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6a870b4f
+[28Dec2024 23:17:23.098] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PapiHanscho[/127.188.170.29:48137] logged in with entity id 26184 at (193.44103252311152, 66.0, 103.2062828643231)
+[28Dec2024 23:17:23.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho joined the game
+[28Dec2024 23:17:23.116] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05df7825-09af-38a5-bde2-6e9c6259c583
+[28Dec2024 23:17:29.335] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PapiHanscho (18)
+[28Dec2024 23:17:29.336] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PapiHanscho
+[28Dec2024 23:22:37.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> duerme corazon
+[28Dec2024 23:22:47.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> claro mi cielo
+[28Dec2024 23:24:04.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho has made the advancement [A Seedy Place]
