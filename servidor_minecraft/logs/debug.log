@@ -2925,3 +2925,17 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Dec2024 03:40:59.866] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of JexusPromaza
 [28Dec2024 03:40:59.867] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JexusPromaza
 [28Dec2024 03:41:22.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PapiHanscho moved too quickly! -6.9727054355797975,0.001335979112141672,-7.243167702930933
+[28Dec2024 03:42:08.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PapiHanscho moved too quickly! -1.011970145007325,1.189703340253729,9.981199875774514
+[28Dec2024 03:43:06.407] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[28Dec2024 03:43:06.457] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[28Dec2024 03:43:31.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[28Dec2024 03:43:31.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[28Dec2024 03:46:26.757] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[28Dec2024 03:46:39.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PapiHanscho lost connection: Disconnected
+[28Dec2024 03:46:39.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho left the game
+[28Dec2024 03:46:39.012] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05df7825-09af-38a5-bde2-6e9c6259c583
+[28Dec2024 03:46:39.012] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PapiHanscho
+[28Dec2024 03:46:39.013] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PapiHanscho
+[28Dec2024 03:48:31.115] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[28Dec2024 03:48:31.120] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[28Dec2024 03:49:46.607] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...

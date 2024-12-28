@@ -248,3 +248,8 @@
 [28Dec2024 03:40:59.864] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 361b3a85-8c2e-3666-9ed0-1e6a6b5037ac
 [28Dec2024 03:40:59.867] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client JexusPromaza
 [28Dec2024 03:41:22.217] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PapiHanscho moved too quickly! -6.9727054355797975,0.001335979112141672,-7.243167702930933
+[28Dec2024 03:42:08.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PapiHanscho moved too quickly! -1.011970145007325,1.189703340253729,9.981199875774514
+[28Dec2024 03:46:39.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PapiHanscho lost connection: Disconnected
+[28Dec2024 03:46:39.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho left the game
+[28Dec2024 03:46:39.012] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05df7825-09af-38a5-bde2-6e9c6259c583
+[28Dec2024 03:46:39.013] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PapiHanscho
