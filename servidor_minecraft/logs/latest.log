@@ -253,3 +253,13 @@
 [28Dec2024 03:46:39.012] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho left the game
 [28Dec2024 03:46:39.012] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05df7825-09af-38a5-bde2-6e9c6259c583
 [28Dec2024 03:46:39.013] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PapiHanscho
+[28Dec2024 03:54:39.615] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@70abd577
+[28Dec2024 03:54:39.623] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JexusPromaza[/127.104.221.130:44155] logged in with entity id 1729 at (198.10081866005217, 65.9375, 99.00718881745337)
+[28Dec2024 03:54:39.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JexusPromaza joined the game
+[28Dec2024 03:54:39.645] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 361b3a85-8c2e-3666-9ed0-1e6a6b5037ac
+[28Dec2024 03:54:41.462] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of JexusPromaza (18)
+[28Dec2024 03:54:41.463] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to JexusPromaza
+[28Dec2024 03:55:19.170] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JexusPromaza has made the advancement [Monster Hunter]
+[28Dec2024 03:57:06.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <JexusPromaza> JexusPromaza
+[28Dec2024 03:57:11.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [JexusPromaza: Set own game mode to Survival Mode]
+[28Dec2024 03:59:52.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: JexusPromaza has reached the goal [Half a flight]
