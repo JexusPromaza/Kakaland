@@ -373,3 +373,11 @@
 [28Dec2024 21:48:30.647] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XmolkanX has reached the goal [Half a flight]
 [28Dec2024 21:51:56.293] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> que hay pa hacer
 [28Dec2024 21:52:48.694] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> con la u pones sitios xd
+[28Dec2024 21:55:48.391] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NonstopBreak lost connection: Disconnected
+[28Dec2024 21:55:48.392] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak left the game
+[28Dec2024 21:55:48.393] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5e660245-10b1-317c-9e5b-bea606d6375c
+[28Dec2024 21:55:48.393] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NonstopBreak
+[28Dec2024 22:01:45.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XmolkanX lost connection: Disconnected
+[28Dec2024 22:01:45.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XmolkanX left the game
+[28Dec2024 22:01:45.940] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 04884b8f-b3fa-3485-817b-91bdb2fe47d5
+[28Dec2024 22:01:45.940] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XmolkanX
