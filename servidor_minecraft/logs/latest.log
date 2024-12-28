@@ -389,3 +389,27 @@
 [28Dec2024 22:30:07.677] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XmolkanX
 [28Dec2024 22:30:33.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XmolkanX: Crafting Table: Book + Iron Bars]
 [28Dec2024 22:33:48.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=115, y=68, z=-94} BlockPos{x=117, y=66, z=-93}
+[28Dec2024 22:34:11.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=66, z=-93} BlockPos{x=123, y=66, z=-93}
+[28Dec2024 22:34:11.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=122, y=66, z=-93} BlockPos{x=123, y=66, z=-93}
+[28Dec2024 22:37:49.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3ac97bf0
+[28Dec2024 22:37:49.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NonstopBreak[/127.160.5.58:57689] logged in with entity id 16876 at (349.0995987616119, 68.0, 190.37284352946708)
+[28Dec2024 22:37:49.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak joined the game
+[28Dec2024 22:37:49.416] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5e660245-10b1-317c-9e5b-bea606d6375c
+[28Dec2024 22:38:33.072] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NonstopBreak (18)
+[28Dec2024 22:38:33.073] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NonstopBreak
+[28Dec2024 22:39:36.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> pues no morí al entrar B)
+[28Dec2024 22:39:55.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> joder que pregunton estoy
+[28Dec2024 22:40:09.260] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> tambien andas de chupa verga
+[28Dec2024 22:40:15.897] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> porque no dejas de romper los huevos
+[28Dec2024 22:40:23.445] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> cuales
+[28Dec2024 22:40:42.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> los que te metiste en la garganta
+[28Dec2024 22:40:48.616] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> no los siento
+[28Dec2024 22:40:59.593] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> ya te llegaron al estomago
+[28Dec2024 22:41:16.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> vaya huevos de codornis porque quede con la misma hambre
+[28Dec2024 22:41:17.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> a que dirección te estás yendo?
+[28Dec2024 22:41:27.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> para alejarme de ti
+[28Dec2024 22:41:37.394] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> no te voy a decir
+[28Dec2024 22:41:57.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> er diablo ya se esta haciendo de noche
+[28Dec2024 22:42:04.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> me alegro
+[28Dec2024 22:43:32.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> zzzz
+[28Dec2024 22:43:52.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> duerme
