@@ -770,6 +770,7 @@
       "minecraft:skeleton": "2024-12-28 04:07:22 +0000",
       "minecraft:spider": "2024-12-28 21:22:01 +0000",
       "minecraft:creeper": "2024-12-28 04:06:45 +0000",
+      "minecraft:enderman": "2024-12-28 21:38:34 +0000",
       "minecraft:zombie": "2024-12-28 03:55:19 +0000"
     },
     "done": false
@@ -1023,6 +1024,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 04:05:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 21:40:39 +0000"
     },
     "done": true
   },
@@ -1545,6 +1552,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 21:40:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-27 19:53:55 +0000"
@@ -1614,6 +1627,12 @@
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2024-12-27 19:34:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-28 21:38:35 +0000"
     },
     "done": true
   },
@@ -1740,6 +1759,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-27 19:53:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 21:40:39 +0000"
     },
     "done": true
   },

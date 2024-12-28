@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
     "criteria": {
       "has_cooked_rabbit": "2024-12-27 19:45:40 +0000"
@@ -43,9 +49,28 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "sugar_cane": "2024-12-27 19:53:54 +0000"
+      "sugar_cane": "2024-12-27 19:53:54 +0000",
+      "wheat": "2024-12-28 21:34:59 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked_from_smoking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-28 21:33:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-12-28 21:29:40 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/paper": {
     "criteria": {
@@ -65,9 +90,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/hay": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:32:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:34:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-27 19:51:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
+    "criteria": {
+      "has_item": "2024-12-28 21:38:51 +0000"
     },
     "done": true
   },
@@ -89,6 +132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:32:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-27 19:51:31 +0000"
@@ -102,6 +151,12 @@
       "has_warped_fungus": "2024-12-27 19:45:40 +0000",
       "has_bowl": "2024-12-27 19:45:40 +0000",
       "has_luminous_fungus": "2024-12-27 19:45:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:32:26 +0000"
     },
     "done": true
   },
@@ -141,6 +196,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:34:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-27 19:50:13 +0000"
@@ -156,6 +217,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-27 19:51:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-28 21:38:51 +0000"
     },
     "done": true
   },
@@ -245,7 +312,10 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_rabbit": "2024-12-27 19:45:45 +0000"
+      "bread": "2024-12-28 21:33:41 +0000",
+      "rotten_flesh": "2024-12-28 21:31:17 +0000",
+      "cooked_rabbit": "2024-12-27 19:45:45 +0000",
+      "carrot": "2024-12-28 21:35:52 +0000"
     },
     "done": false
   },
@@ -309,9 +379,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:34:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-27 19:50:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal": {
+    "criteria": {
+      "has_coal": "2024-12-28 21:38:51 +0000"
     },
     "done": true
   },
@@ -345,6 +433,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:34:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-27 19:51:06 +0000"
@@ -357,6 +451,24 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/big_white_glazed_jar": {
+    "criteria": {
+      "has_item": "2024-12-28 21:31:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:32:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2024-12-28 21:31:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-27 19:51:06 +0000"
@@ -366,6 +478,12 @@
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-27 19:51:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-28 21:32:39 +0000"
     },
     "done": true
   },
@@ -438,6 +556,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-27 19:48:03 +0000",
+      "minecraft:meadow": "2024-12-28 21:38:35 +0000",
       "minecraft:plains": "2024-12-27 19:37:28 +0000"
     },
     "done": false
@@ -562,9 +681,27 @@
     },
     "done": true
   },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked_from_campfire_cooking": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-28 21:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2024-12-27 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-28 21:34:59 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/straw": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:32:26 +0000"
     },
     "done": true
   },
@@ -610,15 +747,45 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/white_glazed_jar": {
+    "criteria": {
+      "has_item": "2024-12-28 21:31:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-27 19:48:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-28 21:34:31 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/pink_gysahl": {
     "criteria": {
       "has_gysahl_green": "2024-12-27 19:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2024-12-28 21:32:39 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:29:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-28 21:32:26 +0000"
     },
     "done": true
   },
@@ -715,6 +882,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-27 19:37:28 +0000"
+    },
+    "done": true
+  },
+  "chococraft:recipes/chococraft/chocobo_drumstick_cooked": {
+    "criteria": {
+      "has_raw_drumstick": "2024-12-28 21:33:10 +0000"
     },
     "done": true
   },
