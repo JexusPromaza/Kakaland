@@ -381,3 +381,11 @@
 [28Dec2024 22:01:45.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XmolkanX left the game
 [28Dec2024 22:01:45.940] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 04884b8f-b3fa-3485-817b-91bdb2fe47d5
 [28Dec2024 22:01:45.940] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XmolkanX
+[28Dec2024 22:30:06.792] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6098a95d
+[28Dec2024 22:30:06.804] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XmolkanX[/127.188.170.29:47773] logged in with entity id 15011 at (92.79323711054745, 74.0, -50.68449463248501)
+[28Dec2024 22:30:06.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XmolkanX joined the game
+[28Dec2024 22:30:06.855] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 04884b8f-b3fa-3485-817b-91bdb2fe47d5
+[28Dec2024 22:30:07.677] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XmolkanX (18)
+[28Dec2024 22:30:07.677] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XmolkanX
+[28Dec2024 22:30:33.645] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [XmolkanX: Crafting Table: Book + Iron Bars]
+[28Dec2024 22:33:48.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=115, y=68, z=-94} BlockPos{x=117, y=66, z=-93}
