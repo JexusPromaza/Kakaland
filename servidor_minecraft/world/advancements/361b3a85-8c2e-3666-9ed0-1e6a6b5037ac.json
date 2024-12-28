@@ -321,6 +321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-28 21:22:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-27 19:53:40 +0000"
@@ -705,6 +711,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-28 21:22:09 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-27 19:57:18 +0000"
@@ -756,6 +768,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-28 04:07:22 +0000",
+      "minecraft:spider": "2024-12-28 21:22:01 +0000",
       "minecraft:creeper": "2024-12-28 04:06:45 +0000",
       "minecraft:zombie": "2024-12-28 03:55:19 +0000"
     },
@@ -1019,6 +1032,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
+    "criteria": {
+      "has_item": "2024-12-28 21:20:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 04:05:14 +0000"
@@ -1073,9 +1092,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-28 21:20:23 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-27 18:56:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:22:09 +0000"
     },
     "done": true
   },
@@ -1130,6 +1161,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2024-12-28 04:07:22 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 21:22:09 +0000"
     },
     "done": true
   },
@@ -1250,6 +1287,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-27 19:51:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal": {
+    "criteria": {
+      "has_coal": "2024-12-28 21:20:23 +0000"
     },
     "done": true
   },
@@ -1493,6 +1536,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-12-28 20:57:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-28 21:22:01 +0000"
     },
     "done": true
   },

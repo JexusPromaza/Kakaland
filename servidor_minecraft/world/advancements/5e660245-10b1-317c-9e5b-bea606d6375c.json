@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-28 21:24:56 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/building_blocks/headstones": {
     "criteria": {
       "has_ingredients": "2024-12-28 21:15:25 +0000"
@@ -97,9 +103,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-28 21:24:56 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 21:03:51 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/needle_and_thread": {
+    "criteria": {
+      "has_item": "2024-12-28 21:24:56 +0000"
     },
     "done": true
   },
@@ -124,6 +142,12 @@
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-28 21:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-28 21:24:56 +0000"
     },
     "done": true
   },
@@ -200,6 +224,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-28 21:16:00 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/spider": {
+    "criteria": {
+      "has_string": "2024-12-28 21:24:56 +0000"
     },
     "done": true
   },
@@ -331,7 +361,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2024-12-28 21:06:32 +0000"
+      "bread": "2024-12-28 21:06:32 +0000",
+      "carrot": "2024-12-28 21:22:02 +0000"
     },
     "done": false
   },
@@ -359,6 +390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-28 21:24:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-28 21:14:54 +0000"
@@ -374,6 +411,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:25 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-28 21:20:43 +0000"
     },
     "done": true
   },
@@ -479,9 +522,21 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-28 21:20:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-28 21:03:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-28 21:24:56 +0000"
     },
     "done": true
   },
@@ -678,6 +733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-28 21:24:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-28 21:03:58 +0000"
@@ -744,6 +805,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-28 21:20:43 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2024-12-28 20:59:40 +0000"
@@ -759,6 +826,12 @@
   "farmersdelight:main/root": {
     "criteria": {
       "seeds": "2024-12-28 20:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-28 21:24:56 +0000"
     },
     "done": true
   },
@@ -800,6 +873,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2024-12-28 21:24:55 +0000",
       "minecraft:zombie": "2024-12-28 21:08:58 +0000"
     },
     "done": false
@@ -849,6 +923,12 @@
   "mca:root": {
     "criteria": {
       "village_plains": "2024-12-28 21:00:58 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2024-12-28 21:20:43 +0000"
     },
     "done": true
   },
