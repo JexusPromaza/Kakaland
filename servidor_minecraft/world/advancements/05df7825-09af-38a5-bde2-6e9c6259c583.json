@@ -5,9 +5,21 @@
     },
     "done": true
   },
+  "mca:recipes/building_blocks/headstones": {
+    "criteria": {
+      "has_ingredients": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-28 23:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 23:28:32 +0000"
     },
     "done": true
   },
@@ -17,9 +29,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-28 23:24:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
     },
     "done": true
   },
@@ -37,6 +61,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "beetroot": "2024-12-28 23:24:24 +0000",
       "wheat": "2024-12-28 23:24:04 +0000",
       "carrot": "2024-12-28 23:23:44 +0000"
     },
@@ -48,9 +73,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/food/cooked_hogchop_campfire": {
     "criteria": {
       "has_hogchop": "2024-12-27 19:52:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
     },
     "done": true
   },
@@ -63,6 +100,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 23:23:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 23:33:04 +0000"
     },
     "done": true
   },
@@ -90,6 +133,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/brazier": {
+    "criteria": {
+      "has_item": "2024-12-28 23:31:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-28 03:37:00 +0000"
@@ -99,6 +148,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-28 03:37:28 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/pig": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 23:28:32 +0000"
     },
     "done": true
   },
@@ -172,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-28 23:27:58 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 23:23:34 +0000"
@@ -193,6 +254,12 @@
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-28 03:37:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-28 23:31:53 +0000"
     },
     "done": true
   },
@@ -250,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-28 03:36:41 +0000"
@@ -274,14 +347,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-28 03:37:28 +0000"
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_cobblestone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "porkchop": "2024-12-28 23:28:55 +0000",
       "carrot": "2024-12-28 23:23:46 +0000"
     },
     "done": false
@@ -298,6 +396,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-28 03:37:01 +0000"
@@ -310,6 +414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/bouquet": {
     "criteria": {
       "has_item": "2024-12-28 03:38:52 +0000"
@@ -319,6 +429,12 @@
   "chococraft:recipes/chococraft/pickled_gysahl_raw": {
     "criteria": {
       "has_gysahl_green": "2024-12-27 20:14:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2024-12-28 23:26:40 +0000"
     },
     "done": true
   },
@@ -340,6 +456,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 23:23:34 +0000"
@@ -349,6 +471,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-28 03:36:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/coal": {
+    "criteria": {
+      "has_coal": "2024-12-28 23:31:53 +0000"
     },
     "done": true
   },
@@ -394,9 +522,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 23:28:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-28 03:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-28 23:28:32 +0000"
     },
     "done": true
   },
@@ -415,6 +561,18 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-28 03:37:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_diorite": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-28 23:29:32 +0000"
     },
     "done": true
   },
@@ -475,6 +633,24 @@
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2024-12-28 03:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
     },
     "done": true
   },
@@ -539,6 +715,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-27 20:15:04 +0000"
@@ -554,6 +736,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-27 20:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
     },
     "done": true
   },
@@ -581,9 +769,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2024-12-27 20:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 23:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
     },
     "done": true
   },
@@ -647,6 +859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2024-12-27 19:52:38 +0000"
@@ -668,6 +886,12 @@
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-28 23:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
     },
     "done": true
   },
@@ -707,6 +931,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:creeper": "2024-12-28 23:29:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-28 23:21:48 +0000"
@@ -719,9 +949,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2024-12-28 23:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
     },
     "done": true
   },
@@ -761,6 +1003,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
+    },
+    "done": true
+  },
   "orcz:orczchallenge": {
     "criteria": {
       "orczchallenge": "2024-12-27 19:39:00 +0000"
@@ -773,9 +1021,21 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-28 23:27:58 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/choco_disguise_leggings": {
     "criteria": {
       "has_chocobo_feather": "2024-12-28 03:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2024-12-28 23:31:36 +0000"
     },
     "done": true
   },
@@ -815,9 +1075,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-28 23:26:40 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/choco_disguise_boots": {
     "criteria": {
       "has_chocobo_feather": "2024-12-28 03:37:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-28 23:33:04 +0000"
     },
     "done": true
   },
@@ -842,6 +1114,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2024-12-28 23:24:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-28 23:28:32 +0000"
     },
     "done": true
   },

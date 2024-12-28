@@ -445,3 +445,10 @@
 [28Dec2024 23:22:37.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> duerme corazon
 [28Dec2024 23:22:47.932] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> claro mi cielo
 [28Dec2024 23:24:04.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho has made the advancement [A Seedy Place]
+[28Dec2024 23:26:40.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho has made the advancement [Stone Age]
+[28Dec2024 23:27:58.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho has made the advancement [Getting an Upgrade]
+[28Dec2024 23:29:32.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho has made the advancement [Monster Hunter]
+[28Dec2024 23:31:42.041] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NonstopBreak lost connection: Disconnected
+[28Dec2024 23:31:42.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak left the game
+[28Dec2024 23:31:42.042] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5e660245-10b1-317c-9e5b-bea606d6375c
+[28Dec2024 23:31:42.042] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NonstopBreak
