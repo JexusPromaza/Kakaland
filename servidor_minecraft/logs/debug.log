@@ -2772,3 +2772,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Dec2024 19:03:23.565] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
 [29Dec2024 19:03:23.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
 [29Dec2024 19:04:37.943] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Dec2024 19:07:57.793] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Dec2024 19:07:57.794] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Dec2024 19:08:23.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 19:08:23.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 19:11:18.593] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Dec2024 19:13:23.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 19:13:23.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 19:14:37.993] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
