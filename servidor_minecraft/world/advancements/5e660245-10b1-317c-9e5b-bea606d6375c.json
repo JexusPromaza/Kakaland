@@ -814,6 +814,7 @@
       "minecraft:witch": "2024-12-29 18:31:38 +0000",
       "minecraft:cave_spider": "2024-12-29 17:00:25 +0000",
       "minecraft:enderman": "2024-12-29 20:36:13 +0000",
+      "minecraft:endermite": "2024-12-29 21:41:45 +0000",
       "minecraft:vex": "2024-12-29 20:33:09 +0000",
       "minecraft:zombie": "2024-12-28 21:08:58 +0000"
     },
@@ -2318,6 +2319,12 @@
   "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-28 22:49:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-29 21:40:56 +0000"
     },
     "done": true
   },
@@ -4041,6 +4048,12 @@
   "repurposed_structures:root": {
     "criteria": {
       "always": "2024-12-28 20:54:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-29 21:40:56 +0000"
     },
     "done": true
   },

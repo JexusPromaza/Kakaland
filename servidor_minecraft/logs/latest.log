@@ -260,3 +260,42 @@
 [29Dec2024 21:26:56.603] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=left_1,waterlogged=false] but failed at location BlockPos{x=1819, y=10, z=1418}
 [29Dec2024 21:26:56.603] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=middle_2,waterlogged=false] but failed at location BlockPos{x=1820, y=11, z=1418}
 [29Dec2024 21:26:56.604] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=south,open=false,part=right_3,waterlogged=false] but failed at location BlockPos{x=1821, y=12, z=1418}
+[29Dec2024 21:33:37.720] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4170f778
+[29Dec2024 21:33:37.731] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XmolkanX[/127.188.170.29:39431] logged in with entity id 7017 at (-272.89070454652654, 64.0, 106.8855333138814)
+[29Dec2024 21:33:37.742] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XmolkanX joined the game
+[29Dec2024 21:33:37.759] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 04884b8f-b3fa-3485-817b-91bdb2fe47d5
+[29Dec2024 21:33:38.620] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XmolkanX (18)
+[29Dec2024 21:33:38.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XmolkanX
+[29Dec2024 21:41:34.907] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@33ad2b0e
+[29Dec2024 21:41:34.917] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PapiHanscho[/127.188.170.29:40591] logged in with entity id 10902 at (-388.2305032304627, 67.0, -160.80508953898868)
+[29Dec2024 21:41:34.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho joined the game
+[29Dec2024 21:41:34.937] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05df7825-09af-38a5-bde2-6e9c6259c583
+[29Dec2024 21:41:37.320] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PapiHanscho (18)
+[29Dec2024 21:41:37.323] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PapiHanscho
+[29Dec2024 21:43:34.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> quieren dormir=
+[29Dec2024 21:43:36.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> ?
+[29Dec2024 21:43:37.409] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> SI
+[29Dec2024 21:43:52.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> durmiendo
+[29Dec2024 21:43:56.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> voy
+[29Dec2024 21:44:15.579] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> miman
+[29Dec2024 21:44:16.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> hans duerme
+[29Dec2024 21:44:31.682] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> 2/3
+[29Dec2024 21:44:32.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> yayoya
+[29Dec2024 21:44:36.749] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> voy voy
+[29Dec2024 21:44:41.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> perra
+[29Dec2024 21:44:45.782] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> u met
+[29Dec2024 21:44:50.532] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> tu mae
+[29Dec2024 21:44:54.166] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> la tuya
+[29Dec2024 21:45:00.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NonstopBreak lost connection: Disconnected
+[29Dec2024 21:45:00.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak left the game
+[29Dec2024 21:45:00.307] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5e660245-10b1-317c-9e5b-bea606d6375c
+[29Dec2024 21:45:00.309] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NonstopBreak
+[29Dec2024 21:45:18.856] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3cd9f14e
+[29Dec2024 21:45:18.862] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: NonstopBreak[/127.160.5.58:41639] logged in with entity id 12834 at (1603.540547974027, 63.0625, 1654.770476455087)
+[29Dec2024 21:45:18.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak joined the game
+[29Dec2024 21:45:18.873] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5e660245-10b1-317c-9e5b-bea606d6375c
+[29Dec2024 21:45:20.356] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of NonstopBreak (18)
+[29Dec2024 21:45:20.357] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to NonstopBreak
+[29Dec2024 21:45:48.399] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Romana'/10918, l='ServerLevel[Kakaland]', x=-384.76, y=53.00, z=-156.76] died: Romana was blown up by Creeper
+[29Dec2024 21:46:02.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> gente como va su economia?
+[29Dec2024 21:46:07.576] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> en el frio anda fuerte
