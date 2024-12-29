@@ -65,6 +65,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-29 17:59:08 +0000"
@@ -110,6 +116,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-29 17:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
     },
     "done": true
   },
@@ -206,6 +218,12 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-29 17:59:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
     },
     "done": true
   },
@@ -311,6 +329,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-29 20:12:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2024-12-29 17:57:11 +0000"
@@ -338,6 +362,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:07:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/emerald": {
+    "criteria": {
+      "has_emerald": "2024-12-29 20:12:19 +0000"
     },
     "done": true
   },
@@ -611,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 20:07:23 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/food/cured_jerky": {
     "criteria": {
       "has_soul_salt_clump": "2024-12-28 20:59:40 +0000"
@@ -764,6 +800,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-28 22:49:57 +0000",
+      "minecraft:vindicator": "2024-12-29 20:09:15 +0000",
       "minecraft:spider": "2024-12-28 21:24:55 +0000",
       "minecraft:creeper": "2024-12-28 22:50:04 +0000",
       "minecraft:slime": "2024-12-29 19:15:27 +0000",
@@ -914,6 +951,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-28 21:14:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-29 20:13:17 +0000"
     },
     "done": true
   },
@@ -1139,6 +1182,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2024-12-29 20:12:50 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 21:11:25 +0000"
@@ -1160,6 +1209,12 @@
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-29 17:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 20:07:23 +0000"
     },
     "done": true
   },
@@ -1391,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2024-12-28 21:13:26 +0000"
@@ -1426,6 +1487,12 @@
       "has_diorite": "2024-12-29 18:43:05 +0000"
     },
     "done": true
+  },
+  "repurposed_structures:mansions": {
+    "criteria": {
+      "in_mansion_snowy": "2024-12-29 20:05:29 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
     "criteria": {
@@ -1550,6 +1617,12 @@
   "valhelsia_structures:recipes/valhelsia_structures_main/magenta_sleeping_bag": {
     "criteria": {
       "has_item": "2024-12-28 22:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2024-12-29 20:10:00 +0000"
     },
     "done": true
   },
@@ -1802,6 +1875,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/green_sleeping_bag": {
+    "criteria": {
+      "has_green_wool": "2024-12-29 20:10:00 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/dumplings": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 22:46:37 +0000"
@@ -1979,6 +2058,12 @@
   "travelersbackpack:recipes/travelersbackpack/white_sleeping_bag": {
     "criteria": {
       "has_white_wool": "2024-12-28 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2024-12-29 20:10:00 +0000"
     },
     "done": true
   },
@@ -2770,6 +2855,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-28 21:11:25 +0000"
@@ -2854,9 +2945,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond": {
     "criteria": {
       "has_diamond": "2024-12-29 18:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2024-12-29 20:10:00 +0000"
     },
     "done": true
   },
@@ -2977,6 +3080,12 @@
   "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
       "has_white_wool": "2024-12-28 21:38:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
     },
     "done": true
   },
@@ -3192,6 +3301,12 @@
     },
     "done": true
   },
+  "valhelsia_structures:recipes/valhelsia_structures_main/green_sleeping_bag": {
+    "criteria": {
+      "has_item": "2024-12-29 20:10:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-28 21:15:25 +0000"
@@ -3252,6 +3367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/chocobo_whistle": {
     "criteria": {
       "has_chocobo_feather": "2024-12-28 21:41:30 +0000"
@@ -3285,6 +3406,12 @@
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl3": {
     "criteria": {
       "has_redstone": "2024-12-29 18:00:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/valhelsia_structures_main/spruce_post": {
+    "criteria": {
+      "has_item": "2024-12-29 20:07:23 +0000"
     },
     "done": true
   },
@@ -3600,6 +3727,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-29 20:10:43 +0000"
+    },
+    "done": true
+  },
   "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-28 21:20:43 +0000"
@@ -3723,6 +3856,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/cooked_rice": {
     "criteria": {
       "has_rice": "2024-12-29 18:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-29 20:07:36 +0000"
     },
     "done": true
   },

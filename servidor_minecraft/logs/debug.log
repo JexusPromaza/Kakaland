@@ -2838,3 +2838,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Dec2024 20:04:33.058] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=1220, y=13, z=774}
 [29Dec2024 20:04:33.058] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=1219, y=13, z=774}
 [29Dec2024 20:04:38.243] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Dec2024 20:07:58.093] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Dec2024 20:07:58.094] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Dec2024 20:08:25.523] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 20:08:25.528] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 20:10:43.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak has made the advancement [Take Aim]
+[29Dec2024 20:11:18.893] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Dec2024 20:13:25.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 20:13:25.526] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 20:14:38.293] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
