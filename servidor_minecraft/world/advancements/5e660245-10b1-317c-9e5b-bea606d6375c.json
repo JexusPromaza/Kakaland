@@ -3477,6 +3477,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/spider_smithing": {
+    "criteria": {
+      "has_spider": "2024-12-29 19:28:32 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-29 18:16:23 +0000"
