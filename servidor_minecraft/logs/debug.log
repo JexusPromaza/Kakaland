@@ -3310,3 +3310,13 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 21:59:35.503] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05df7825-09af-38a5-bde2-6e9c6259c583
 [29Dec2024 21:59:35.504] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PapiHanscho
 [29Dec2024 21:59:35.504] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PapiHanscho
+[29Dec2024 22:01:50.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak has reached the goal [Postmortal]
+[29Dec2024 22:02:06.135] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Dec2024 22:02:06.185] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Dec2024 22:02:37.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 22:02:37.015] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 22:04:03.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak has made the advancement [Wingin' It]
+[29Dec2024 22:05:26.435] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Dec2024 22:07:37.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 22:07:37.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 22:08:46.385] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
