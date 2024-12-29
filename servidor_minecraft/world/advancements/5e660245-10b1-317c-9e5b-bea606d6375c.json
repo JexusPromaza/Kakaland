@@ -527,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-29 20:28:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-12-28 23:07:48 +0000"
@@ -803,9 +809,12 @@
       "minecraft:vindicator": "2024-12-29 20:09:15 +0000",
       "minecraft:spider": "2024-12-28 21:24:55 +0000",
       "minecraft:creeper": "2024-12-28 22:50:04 +0000",
+      "minecraft:evoker": "2024-12-29 20:32:44 +0000",
       "minecraft:slime": "2024-12-29 19:15:27 +0000",
       "minecraft:witch": "2024-12-29 18:31:38 +0000",
       "minecraft:cave_spider": "2024-12-29 17:00:25 +0000",
+      "minecraft:enderman": "2024-12-29 20:36:13 +0000",
+      "minecraft:vex": "2024-12-29 20:33:09 +0000",
       "minecraft:zombie": "2024-12-28 21:08:58 +0000"
     },
     "done": false
@@ -1314,6 +1323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-29 20:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 22:43:38 +0000"
@@ -1785,6 +1800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-29 20:26:18 +0000"
+    },
+    "done": true
+  },
   "infernalexp:recipes/redstone/smooth_dimstone_button": {
     "criteria": {
       "has_smooth_dimstone": "2024-12-28 20:59:40 +0000"
@@ -2079,6 +2100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-29 20:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/wheat": {
     "criteria": {
       "has_hay_block": "2024-12-28 21:05:11 +0000"
@@ -2190,6 +2217,12 @@
       "has_sand": "2024-12-29 17:12:27 +0000"
     },
     "done": true
+  },
+  "friendsandfoes:adventure/the_magicians": {
+    "criteria": {
+      "killed_evoker": "2024-12-29 20:32:44 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
@@ -2407,6 +2440,7 @@
       "cooked_mutton": "2024-12-29 17:01:01 +0000",
       "cooked_beef": "2024-12-29 19:57:40 +0000",
       "bread": "2024-12-28 21:06:32 +0000",
+      "cookie": "2024-12-29 20:15:18 +0000",
       "carrot": "2024-12-28 21:22:02 +0000"
     },
     "done": false
@@ -2450,6 +2484,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-29 17:15:32 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-29 20:28:26 +0000"
     },
     "done": true
   },
@@ -3023,6 +3063,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-29 20:19:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-28 21:03:58 +0000"
@@ -3511,9 +3557,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-29 20:28:26 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/misc/whistle": {
     "criteria": {
       "has_item": "2024-12-28 23:07:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-29 20:19:07 +0000"
     },
     "done": true
   },
@@ -3679,6 +3737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-29 20:19:07 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/iron": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 23:07:48 +0000"
@@ -3736,6 +3800,12 @@
   "paraglider:recipes/paraglider/cosmetic/kakariko_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2024-12-28 21:20:43 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-29 20:36:14 +0000"
     },
     "done": true
   },

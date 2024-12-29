@@ -279,3 +279,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [29Dec2024 20:04:33.058] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=middle_4,waterlogged=false] but failed at location BlockPos{x=1220, y=13, z=774}
 [29Dec2024 20:04:33.058] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{valhelsia_structures:dungeon_door}[facing=north,open=false,part=right_4,waterlogged=false] but failed at location BlockPos{x=1219, y=13, z=774}
 [29Dec2024 20:10:43.801] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak has made the advancement [Take Aim]
+[29Dec2024 20:51:37.575] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@18d34eec
+[29Dec2024 20:51:37.587] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XmolkanX[/127.188.170.29:47493] logged in with entity id 16628 at (-292.6586328052887, 72.0, 262.47242375455545)
+[29Dec2024 20:51:37.595] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XmolkanX joined the game
+[29Dec2024 20:51:37.602] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 04884b8f-b3fa-3485-817b-91bdb2fe47d5
+[29Dec2024 20:51:38.408] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XmolkanX (18)
+[29Dec2024 20:51:38.409] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XmolkanX
+[29Dec2024 20:51:44.308] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> hola
+[29Dec2024 20:51:56.254] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> hola
+[29Dec2024 20:52:08.004] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> tun nariz con mis bolas
+[29Dec2024 20:57:08.851] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> quieres dormir=
+[29Dec2024 20:57:09.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> ?
+[29Dec2024 20:57:11.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> obeo
+[29Dec2024 20:57:23.870] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> zzzz
