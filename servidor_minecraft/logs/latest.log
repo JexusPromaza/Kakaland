@@ -319,3 +319,7 @@
 [29Dec2024 21:59:35.504] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PapiHanscho
 [29Dec2024 22:01:50.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak has reached the goal [Postmortal]
 [29Dec2024 22:04:03.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak has made the advancement [Wingin' It]
+[29Dec2024 22:16:37.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NonstopBreak lost connection: Disconnected
+[29Dec2024 22:16:37.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak left the game
+[29Dec2024 22:16:37.141] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5e660245-10b1-317c-9e5b-bea606d6375c
+[29Dec2024 22:16:37.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NonstopBreak

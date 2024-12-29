@@ -3320,3 +3320,16 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 22:07:37.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
 [29Dec2024 22:07:37.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
 [29Dec2024 22:08:46.385] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Dec2024 22:12:06.185] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Dec2024 22:12:06.235] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Dec2024 22:12:37.006] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 22:12:37.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 22:15:26.485] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Dec2024 22:16:37.140] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: NonstopBreak lost connection: Disconnected
+[29Dec2024 22:16:37.141] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: NonstopBreak left the game
+[29Dec2024 22:16:37.141] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 5e660245-10b1-317c-9e5b-bea606d6375c
+[29Dec2024 22:16:37.142] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of NonstopBreak
+[29Dec2024 22:16:37.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client NonstopBreak
+[29Dec2024 22:17:36.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 22:17:36.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 22:18:46.435] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
