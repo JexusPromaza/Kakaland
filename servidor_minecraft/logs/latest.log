@@ -457,3 +457,13 @@
 [28Dec2024 23:50:20.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho has made the advancement [Not Today, Thank You]
 [28Dec2024 23:50:50.806] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=59, y=49, z=-394} but found not block entity block Block{minecraft:water}[level=8] at location
 [28Dec2024 23:50:50.806] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=59, y=49, z=-394}
+[28Dec2024 23:56:10.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PapiHanscho lost connection: Disconnected
+[28Dec2024 23:56:10.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho left the game
+[28Dec2024 23:56:10.689] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05df7825-09af-38a5-bde2-6e9c6259c583
+[28Dec2024 23:56:10.689] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PapiHanscho
+[28Dec2024 23:58:21.840] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74c09ed6
+[28Dec2024 23:58:21.845] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: XmolkanX[/127.188.170.29:41337] logged in with entity id 32347 at (-276.8386764455136, 64.0, 117.69056153966169)
+[28Dec2024 23:58:21.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XmolkanX joined the game
+[28Dec2024 23:58:21.858] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 04884b8f-b3fa-3485-817b-91bdb2fe47d5
+[28Dec2024 23:58:22.654] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of XmolkanX (18)
+[28Dec2024 23:58:22.654] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to XmolkanX
