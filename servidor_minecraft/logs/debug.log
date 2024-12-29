@@ -3282,3 +3282,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [29Dec2024 21:47:37.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
 [29Dec2024 21:47:37.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
 [29Dec2024 21:48:46.285] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Dec2024 21:52:06.085] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving server info!
+[29Dec2024 21:52:06.135] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving parties...
+[29Dec2024 21:52:37.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 21:52:37.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 21:53:21.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <XmolkanX> me largo pal valorant
+[29Dec2024 21:53:22.547] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: XmolkanX lost connection: Disconnected
+[29Dec2024 21:53:22.548] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: XmolkanX left the game
+[29Dec2024 21:53:22.548] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 04884b8f-b3fa-3485-817b-91bdb2fe47d5
+[29Dec2024 21:53:22.549] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of XmolkanX
+[29Dec2024 21:53:22.549] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client XmolkanX
+[29Dec2024 21:53:41.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> mucho juega eh?
+[29Dec2024 21:53:52.924] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> se aburre rapido
+[29Dec2024 21:55:26.385] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving claims!
+[29Dec2024 21:55:35.673] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> hey
+[29Dec2024 21:55:40.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> ?
+[29Dec2024 21:55:50.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> pa hacer un panel numero necesitas piedra reforzada
+[29Dec2024 21:56:10.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> supongo xd?
+[29Dec2024 21:56:19.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> y para hacer piedra reforzada necesitas un horno con panel numerico
+[29Dec2024 21:56:27.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <PapiHanscho> :v
+[29Dec2024 21:57:24.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <NonstopBreak> duerme
+[29Dec2024 21:57:37.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Kakaland
+[29Dec2024 21:57:37.038] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Kakaland
+[29Dec2024 21:58:46.335] [Server thread/DEBUG] [xaero.pac.OpenPartiesAndClaims/]: Saving player configs...
+[29Dec2024 21:59:35.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PapiHanscho lost connection: Disconnected
+[29Dec2024 21:59:35.503] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: PapiHanscho left the game
+[29Dec2024 21:59:35.503] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 05df7825-09af-38a5-bde2-6e9c6259c583
+[29Dec2024 21:59:35.504] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PapiHanscho
+[29Dec2024 21:59:35.504] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PapiHanscho
